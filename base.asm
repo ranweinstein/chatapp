@@ -11,7 +11,7 @@ start:
     mov ax, @data
     mov ds, ax
     
-      
+    xor ax,ax
 ; --------------------------
 ; Your code here
 ; --------------------------
